@@ -1,0 +1,13 @@
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This sets the height to 100% of the viewport height */
+  }
+  
+  .centered {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  
